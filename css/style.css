@@ -48,4 +48,20 @@ p{
  	font-size: 14px;
  }
 
- 
+ #pricing{
+  text-align: center;
+  padding: 7% 15%; 
+  background-color: #fff;
+  position: relative; 
+ }
+
+ .img-box{
+  padding: 7% 15%; 
+  font-size: 18px;
+   
+ }
+
+ .head-box{
+  font-size: 18px;
+  
+ }
