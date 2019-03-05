@@ -1,6 +1,6 @@
 body{
   font-family: 'Open Sans', sans-serif;
-  margin:0% 20%;
+  margin:0%;
 
  
 }
@@ -56,17 +56,19 @@ p{
 
  #showcase p{
  	font-size: 14px;
- }
+ 
+}
 
  #pricing{
   
-  padding: 2% 10%; 
+  padding: 2% 15%; 
   background-color: #fff;
+  text-align: center;
  
  }
 
  .img-box{
-  padding: 5% 10%; 
+  /*padding: 5% 10%; */
   font-size: 18px;
    
  }
@@ -75,29 +77,44 @@ p{
   font-size: 18px;
   padding-top: 15px;
   font-weight: bold;
-  padding-right: 5%;
+  padding-right: 130px;
+
+
   
  }
+
+
  .p-box{
   font-size: 14px;
   
-  color: grey;
+   color: grey;
+   padding-right: 160px;
 
 
  }
 
+.p2-box{
+  font-size: 14px;
+  padding-right: 140px;
+  line-height: 2;
+}
  .icon-color{
   color: #FFC107;
+
  }
 
  .pp-box{
   font-size: 18px;
   font-weight: bold;
+  padding-right: 15px;
+  padding-right: 160px;
  }
 
 .btn-box{
   background-color: black;
   color: #FFC107;
+  margin-right: 100px;
+
 }
 
 #features{
